@@ -1,17 +1,13 @@
 {
-  "main.js": "static/js/main.623cea8d.js",
-  "main.js.map": "static/js/main.623cea8d.js.map",
-  "static\\media\\OK.svg": "static/media/OK.1243e48f.svg",
-  "static\\media\\cardImg.jpg": "static/media/cardImg.7a44ca31.jpg",
-  "static\\media\\company.svg": "static/media/company.77632c73.svg",
-  "static\\media\\createWebsite.svg": "static/media/createWebsite.2bc3c182.svg",
-  "static\\media\\edit.svg": "static/media/edit.cc8a3950.svg",
-  "static\\media\\facebook.svg": "static/media/facebook.274762bd.svg",
-  "static\\media\\gplus.svg": "static/media/gplus.f3d9a9fd.svg",
-  "static\\media\\payments.svg": "static/media/payments.0578c455.svg",
-  "static\\media\\settings.svg": "static/media/settings.c7d10c33.svg",
-  "static\\media\\sites.svg": "static/media/sites.fedcd01f.svg",
-  "static\\media\\templates.svg": "static/media/templates.ad76287c.svg",
-  "static\\media\\twitter.svg": "static/media/twitter.a8cf33d7.svg",
-  "static\\media\\vk.svg": "static/media/vk.3fbac31a.svg"
+  "main.css": "/static/css/main.b2b01187.chunk.css",
+  "main.js": "/static/js/main.8791a61f.chunk.js",
+  "main.js.map": "/static/js/main.8791a61f.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+  "static/js/2.9dc17ac8.chunk.js": "/static/js/2.9dc17ac8.chunk.js",
+  "static/js/2.9dc17ac8.chunk.js.map": "/static/js/2.9dc17ac8.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.475fdce12b0db09eddb98c411f8fe65d.js": "/precache-manifest.475fdce12b0db09eddb98c411f8fe65d.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.b2b01187.chunk.css.map": "/static/css/main.b2b01187.chunk.css.map"
 }
